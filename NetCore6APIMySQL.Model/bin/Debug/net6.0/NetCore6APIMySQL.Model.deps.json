@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "NetCore6APIMySQL.Model/1.0.0": {
+        "runtime": {
+          "NetCore6APIMySQL.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NetCore6APIMySQL.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
